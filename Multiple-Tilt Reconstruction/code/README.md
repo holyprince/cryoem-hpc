@@ -14,7 +14,10 @@ main函数文件：main-fbp.cpp
 
 multirecon 使用最简单的BPT重构，即back-projection
 算法参考链接:  
-https://www.sciencedirect.com/topics/computer-science/backprojection
+https://crazybiocomputing.blogspot.com/2012/08/learning-tomography-simple-back.html  
+https://en.wikipedia.org/wiki/Tomographic_reconstruction  
+
+Key words： radon变换 
 
 具体执行方式在multirecon目录下有sh脚本  
 /home/wangzihao/CudaFBP/multirecon/singleexp/runmpi.sh
